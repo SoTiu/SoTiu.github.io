@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "고촌고 급식",
+  "name": "고촌고 급식 앱을 설치합니다",
   "icons": [
     {
       "src": "icon.ico",
